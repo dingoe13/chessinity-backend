@@ -1,2 +1,2 @@
 # chessinity-backend
-CHess + divinity
+Chess + divinity
